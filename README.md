@@ -19,7 +19,7 @@
 
 设计模式大纲：
 
-![image-20240103193726391](https://kstar-1253855093.cos.ap-nanjing.myqcloud.com/baguwen1.0/image-20240103193726391.png)
+![image-20240103193726391](https://file.kamacoder.com/baguwen1.0/image-20240103193726391.png)
 
 本PDF提供 23种设计模式的讲解，同时给出对应的练习题目，在：[设计模式专属练习题库](https://kamacoder.com/designpattern.php)
 
